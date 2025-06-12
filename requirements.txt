@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+tensorflow
+
+python_version >= "3.10"
